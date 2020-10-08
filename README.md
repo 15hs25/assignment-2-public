@@ -26,3 +26,5 @@ If the auto-grading isn't working for whatever reason, you can test things yours
 ## Help
 
 See the demo video in the course Tutorials (OnQ > CISC/CMPE 204 > Content > Tutorials) that demonstrates much of GitHub and Repl.It, as it pertains to this assignment.
+
+[![Run on Repl.it](https://repl.it/badge/github/CISC-204/assignment-2-public)](https://repl.it/github/CISC-204/assignment-2-public)
